@@ -1,0 +1,13 @@
+#03/11/2024
+Tasks
+Extract all the dat files done
+Scrape All B label files done 
+Convert into pandas DF done
+Clean all the data done 
+Covert into a csv file. done
+#06/11/2024
+Tasks 
+Collect lat and long for all post codes done Done (need to check feasibility with dataset and final presentation)
+Clean dataset , remove rows without postcodes or Price Done
+Collect Geojson files for all the pincodes of the state of NSW (collected but needs checking)
+Watch Youtube tutorial once again.
