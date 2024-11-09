@@ -46,7 +46,7 @@ python home.py
 
 ## Geographical Data
 - [NSW Suburb GeoJSON Data](https://github.com/tonywr71/GeoJson-Data/blob/master/suburb-2-nsw.geojson)
-
+- [All Australia shapefiles](https://web2.spatialvision.com.au/wp-content/uploads/2019/01/geopandas-blog.zip)
 ## Australian Postal Data
 ### Primary Source
 - [Australia Post Code Dataset (SQL)](https://gist.githubusercontent.com/randomecho/5020859/raw/f0c1385aefa8322c9c4eb7c43ac4c7dda41227eb/australian-postcodes.sql)

@@ -10,4 +10,15 @@ Tasks
 Collect lat and long for all post codes done Done (need to check feasibility with dataset and final presentation)
 Clean dataset , remove rows without postcodes or Price Done
 Collect Geojson files for all the pincodes of the state of NSW (collected but needs checking)
-Watch Youtube tutorial once again.
+Watch Youtube tutorial once again.(50%)
+
+#07/11/2024
+
+Create data full data 2024 to 1995 into one csv
+Average price per pincode per year saved year-wise.
+Average price and volume per year per property type.
+Year over year delta per postcode
+Volume per month per postcode area 
+Create front page with dash
+
+Transform geopandas datafile to correct format( add a link/ shared column between geopanda files and property sales files(ex pincode))
