@@ -15,13 +15,18 @@ Watch Youtube tutorial once again.(50%)
 #07/11/2024
 
 Create data full data 2024 to 1995 into one csv done
-Average price per pincode per year saved year-wise.
+Average price per pincode per year saved year-wise.[done]
 Average price and volume per year per property type.
 Year over year delta per postcode
 Volume per month per postcode area 
 Create front page with dash
 
-Transform geopandas datafile to correct format( add a link/ shared column between geopanda files and property sales files(ex pincode)) Done
+Transform geopandas datafile to correct format( add a link/ shared column between 
+geopanda files and property sales files(ex pincode)) Done
 
-#09/11/2024
+#11/11/2024
+lots of incorrect data in the data set. 
+Fix data extraction of 2002 and pre 2002 data to include a date . []
+Fix all pincode outliers in the dataset . []
+Add in Housing type into the data set for post 2002 data . []
 
