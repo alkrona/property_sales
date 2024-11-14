@@ -24,13 +24,13 @@ Create front page with dash
 Transform geopandas datafile to correct format( add a link/ shared column between 
 geopanda files and property sales files(ex pincode)) Done
 
-#11/11/2024
+#11/11/2024[done]
 lots of incorrect data in the data set. 
 Fix data extraction of 2002 and pre 2002 data to include a date . [done]
-Fix all pincode outliers in the dataset . []
-Add in Housing type into the data set for post 2002 data . []
+Fix all pincode outliers in the dataset . [done]
+Add in Housing type into the data set for post 2002 data . [done]
 #12/11/2024
-Create azure db with relevent data []
-Test connection parameters with python []
-Test connection parameters with PowerBI []
-See if connection parameters are ok for Vinay []
+Create azure db with relevent data [done]
+Test connection parameters with python [done]
+Test connection parameters with PowerBI [done]
+See if connection parameters are ok for Vinay [checking]
